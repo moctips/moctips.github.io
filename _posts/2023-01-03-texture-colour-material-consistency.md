@@ -7,6 +7,14 @@ tags:
   - colour blocking
   - theory
   - basics
+header:
+  image: "/assets/python/gallery_previews/Colour-Texture-Material consistency.jpg"
+  overlay_image: "/assets/python/gallery_previews/Colour-Texture-Material consistency.jpg"
+  overlay_filter: 0.5
+  show_overlay_excerpt: false
+  actions:
+    - label: "View Gallery"
+      url: "https://www.flickr.com/photos/alex_mocs/galleries/72157721396994578/"
 ---
 
 Textural consistency means that you consistently use one combination of colour and texture to represent one "material".
