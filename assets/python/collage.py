@@ -14,7 +14,7 @@ import os
 import pathlib
 
 
-random.seed(0)  # reproducible images
+random.seed(1234)  # reproducible images
 
 
 # Flickr api access key
