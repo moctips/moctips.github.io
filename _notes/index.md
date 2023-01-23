@@ -1,7 +1,3 @@
-# Basics of Creature and Character building
-
-This is an opinionated guide on how to build better creatures and characters from lego. These are the things that I think about when building.
-
 ## Building
 
 A good moc is one that’s easy to parse. When building, consider how the viewer sees your moc. Is it immediately obvious what all of the parts of the build are?
