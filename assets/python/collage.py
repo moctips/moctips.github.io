@@ -14,7 +14,7 @@ import os
 import pathlib
 
 
-random.seed(1234)  # reproducible images
+random.seed(0)  # reproducible images
 
 
 # Flickr api access key
@@ -120,7 +120,7 @@ def square_crop(image):
     return image.crop((left, top, right, bottom))
 
 
-def create_collage(urls, rows=4, cols=5, img_size=500):
+def create_collage(urls, rows=2, cols=7, img_size=800):
     # make collage fit cols first, then rows
     cols = min(cols, len(urls))
     rows = min(rows, len(urls)//cols)

@@ -7,6 +7,8 @@ tags:
   - colour blocking
   - theory
   - basics
+header:
+  image: "/assets/python/gallery_previews/Colour Blocking.jpg"
 ---
 
 Colour blocking means having larger sections built in one colour rather than lots of small sections made of many different colours.
