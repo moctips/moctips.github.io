@@ -1,7 +1,7 @@
 ---
 title: "Inspiration"
 categories:
-  - reference
+  - other
 tags:
   - theory
   - basics

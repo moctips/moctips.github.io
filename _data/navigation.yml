@@ -7,3 +7,47 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+tips:
+  - title: Building
+    children:
+      - title: "Colour Blocking"
+        url: /building/colour-blocking/
+      - title: "Colour Layering"
+        url: /building/colour-layering/
+      - title: "Texture-Colour-Material-Consistency"
+        url: /building/texture-colour-material-consistency/
+      - title: "Shaping"
+        url: /building/shaping/
+      - title: "Connection Hiding"
+        url: /building/connection-hiding/
+      - title: "Familiarity"
+        url: /building/familiarity/
+      - title: "Colour Theory"
+        url: /building/colour-theory/
+      - title: "Colour Placement"
+        url: /building/colour-placement/
+      - title: "Stiffness"
+        url: /building/stiffness/
+      - title: "Joints and Degrees of Freedom"
+        url: /building/joints-and-degrees-of-freedom/
+
+  - title: Presentation
+    children:
+      - title: "Photography Setup"
+        url: /presentation/photography-setup/
+      - title: "Camera Setup"
+        url: /presentation/camera-setup/
+      - title: "Silhouettes"
+        url: /presentation/silhouettes/
+      - title: "Physics"
+        url: /presentation/physics/
+      - title: "Dynamics"
+        url: /presentation/dynamics/
+
+  - title: Other
+    children:
+      - title: "Inspiration"
+        url: /other/inspiration/
+      - title: "Parts Knowledge"
+        url: /other/parts-knowledge/

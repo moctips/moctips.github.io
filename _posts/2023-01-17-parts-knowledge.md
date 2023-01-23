@@ -1,7 +1,7 @@
 ---
 title: "Parts Knowledge"
 categories:
-  - reference
+  - other
 tags:
   - theory
   - basics
