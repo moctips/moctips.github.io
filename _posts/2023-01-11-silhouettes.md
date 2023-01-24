@@ -6,6 +6,14 @@ tags:
   - posing
   - theory
   - basics
+header:
+  image: "/assets/python/gallery_previews/Silhouettes.jpg"
+  overlay_image: "/assets/python/gallery_previews/Silhouettes.jpg"
+  overlay_filter: 0.5
+  show_overlay_excerpt: false
+  actions:
+    - label: "View Gallery"
+      url: "https://www.flickr.com/photos/alex_mocs/galleries/72157721402545111/"
 ---
 
 One thing to consider when posing your moc is its _silhouette_. The silhouette is just the shape of the outline of your moc. Different angles and poses have different silhouettes.

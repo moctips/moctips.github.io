@@ -6,6 +6,14 @@ tags:
   - colour
   - theory
   - basics
+header:
+  image: "/assets/python/gallery_previews/Colour Theory.jpg"
+  overlay_image: "/assets/python/gallery_previews/Colour Theory.jpg"
+  overlay_filter: 0.5
+  show_overlay_excerpt: false
+  actions:
+    - label: "View Gallery"
+      url: "https://www.flickr.com/photos/alex_mocs/galleries/72157721402544096/"
 ---
 
 Lego has released parts in many many colours, and continues to release more.

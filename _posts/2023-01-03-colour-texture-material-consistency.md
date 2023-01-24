@@ -1,5 +1,5 @@
 ---
-title: "Texture-Colour-Material Consistency"
+title: "Colour-Texture-Material Consistency"
 categories:
   - building
 tags:

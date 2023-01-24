@@ -6,6 +6,14 @@ tags:
   - colour
   - theory
   - basics
+header:
+  image: "/assets/python/gallery_previews/Colour Placement.jpg"
+  overlay_image: "/assets/python/gallery_previews/Colour Placement.jpg"
+  overlay_filter: 0.5
+  show_overlay_excerpt: false
+  actions:
+    - label: "View Gallery"
+      url: "https://www.flickr.com/photos/alex_mocs/galleries/72157721399022539/"
 ---
 
 Where we choose to place colours in our build has a lot of impact on how the viewer sees it. This is part of why colour blocking is so important.
